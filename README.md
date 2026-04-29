@@ -41,7 +41,7 @@ A full-stack product management system with a Laravel 13 RESTful API backend and
 
 ```bash
 # 1. Clone the repo
-git clone <repo-url> && cd <repo>
+git clone https://github.com/wwhong1/laravel-product-test.git && cd laravel-product-test
 
 # 2. Start all services (backend + frontend + db)
 docker-compose up -d --build
